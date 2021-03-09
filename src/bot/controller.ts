@@ -1,5 +1,5 @@
 
-import { text } from 'express';
+//import { text } from 'express';
 import TelegramBot from  'node-telegram-bot-api';
 import { User } from './User';
 
